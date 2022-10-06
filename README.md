@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**pavasqtcc23/pavasqtcc23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pavasqtcc23/pavasqtcc23** Hola mi nombre es Paul Vasquez soy estudiante de Ingenieria en Sistemas de UTN FRBA 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
