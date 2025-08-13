@@ -1,10 +1,16 @@
+# Paul Vasquez Tecco
 
-## Hola mi nombre es Paul Vasquez Tecco, estudiante de Ingenieria en Sistemas de UTN FRBA, y soy Developer Jr 
-Te invito a ver mi portafolio de proyectos: 
-https://pavasqtcc23.github.io/
+👋 Hola, soy Paul, estudiante de Ingeniería en Sistemas enfocado en Data & Inteligencia Artificial.
 
-## - 🔭  Python
-## - 🌱  Java
-## - 👯  Blockchain
-## - 🤔  UX/UI
-## - 💬  Javascript
+## Tecnologías
+- Python | SQL | Machine Learning | Data Analysis
+- Git | GitHub | Pandas | Scikit-learn
+
+## Proyectos Destacados
+- [Predicción de Ventas](https://github.com/paulvasqueztecco/ml-prediccion-ventas) - Modelo ML con 92% de precisión
+- [Dashboard Data](https://github.com/paulvasqueztecco/data-dashboard) - Dashboard interactivo de análisis de datos
+
+## Contacto
+- LinkedIn: [linkedin.com/in/paulvasquezteccodev](https://www.linkedin.com/in/paulvasquezteccodev/)
+- Email: paulvasqueztecco@gmail.com
+- Pagina Web: [paulvasquezteccodev](www.paulvasquezteccodev.site)
