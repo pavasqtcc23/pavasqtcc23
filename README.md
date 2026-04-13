@@ -7,10 +7,10 @@
 - Git | GitHub | Pandas | Scikit-learn
 
 ## Proyectos Destacados
-- [Predicción de Ventas](https://github.com/paulvasqueztecco/ml-prediccion-ventas) - Modelo ML con 92% de precisión
-- [Dashboard Data](https://github.com/paulvasqueztecco/data-dashboard) - Dashboard interactivo de análisis de datos
+- [SuperStore Sales Dashboard – Interactive Insights](https://github.com/pavasqtcc23/SuperStore-Sales-Dashboard) - Dashboard interectivo
+- [MLB Salary Analysis](https://github.com/pavasqtcc23/MLB_Salary_Analysis) - Dashboard
 
 ## Contacto
 - LinkedIn: [linkedin.com/in/paulvasquezteccodev](https://www.linkedin.com/in/paulvasquezteccodev/)
 - Email: paulvasqueztecco@gmail.com
-- Pagina Web: [paulvasquezteccodev](www.paulvasquezteccodev.site)
+- Pagina Web: [paulvasquezteccodev](https://paulvasquezteccodev.site/)
